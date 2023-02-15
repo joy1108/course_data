@@ -1,0 +1,11 @@
+{
+    "courses":[
+        {
+            "title": "Data structures and Algorithms",
+            "description": "This is a rigorous course on the design and analysis of efficient algorithms and their associated data structures. Algorithm design methods, graph algorithms, approximation algorithms, and randomized algorithms are covered.",
+            "lecturer": "CS Dojo",
+            "lectures": 13,
+            "slug":"data-structures-and-algorithms"
+        }
+    ]
+}

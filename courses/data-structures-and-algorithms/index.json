@@ -1,0 +1,91 @@
+{
+  "title": "Data structures and Algorithms",
+  "description": "This is a rigorous course on the design and analysis of efficient algorithms and their associated data structures. Algorithm design methods, graph algorithms, approximation algorithms, and randomized algorithms are covered.",
+  "lecturer": "CS Dojo",
+  "lectures": [
+    {
+      "title": "Data Structures & Algorithms #1 - What Are Data Structures?",
+      "runtime": "5:15",
+      "description": "",
+      "videoID": "bum_19loj9A"
+    },
+    {
+      "title": "An Overview of Arrays and Memory (Data Structures & Algorithms #2)",
+      "runtime": "4:01",
+      "description": "",
+      "videoID": "pmN9ExDf3yQ"
+    },
+    {
+      "title": "Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)",
+      "runtime": "47:09",
+      "description": "",
+      "videoID": "8yjkWGRlUmY"
+    },
+    {
+      "title": "Introduction to Classes and Objects - Part 2 (Data Structures & Algorithms #4)",
+      "runtime": "22.46",
+      "description": "",
+      "videoID": "4dqlSk_RPmI"
+    },
+    {
+      "title": "Introduction to Linked Lists (Data Structures & Algorithms #5)",
+      "runtime": "47:09",
+      "description": "",
+      "videoID": "WwfhLC16bis"
+    },
+    {
+      "title": "Camera Calibration I part02",
+      "runtime": "23:24",
+      "description": "",
+      "videoID": "6lMo7gzYjig"
+    },
+    {
+      "title": "Introduction to Recursion (Data Structures & Algorithms #6)",
+      "runtime": "15:13",
+      "description": "",
+      "videoID": "B0NtAFf4bvU"
+    },
+    {
+      "title": "Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)",
+      "runtime": "47:08",
+      "description": "",
+      "videoID": "D6xkbGLQesk"
+    },
+    {
+      "title": "Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)",
+      "runtime": "14:04",
+      "description": "",
+      "videoID": "UNWSdgaPkwY"
+    },
+    {
+      "title": "Introduction to Trees (Data Structures & Algorithms #9)",
+      "runtime": "8:56",
+      "description": "",
+      "videoID": "1-l_UOFi1Xw"
+    },
+    {
+      "title": "Introduction to Binary Search (Data Structures & Algorithms #10)",
+      "runtime": "47:08",
+      "description": "",
+      "videoID": "6ysjqCUv3K4"
+    },
+    {
+      "title": "A Complete Overview of Quicksort (Data Structures & Algorithms #11)",
+      "runtime": "9:57",
+      "description": "",
+      "videoID": "0SkOjNaO1XY"
+    },
+    {
+      "title": "Introduction to Stacks and Queues (Data Structures & Algorithms #12)",
+      "runtime": "8:01",
+      "description": "",
+      "videoID": "A3ZUpyrnCbM"
+    },
+    {
+      "title": "Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13)",
+      "runtime": "47:09",
+      "description": "",
+      "videoID": "sfWyugl4JWA"
+    }
+  ]
+}
