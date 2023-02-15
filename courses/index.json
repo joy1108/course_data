@@ -6,6 +6,13 @@
             "lecturer": "CS Dojo",
             "lectures": 13,
             "slug":"data-structures-and-algorithms"
-        }
+        },
+        {
+            "title": "Machine Learning for Everybody - Full Course",
+            "description": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how to use TensorFlow to implement many different concepts.",
+            "lecturer": "Kylie Ying",
+            "lectures": 1,
+            "slug":"machine-learning"
+        }       
     ]
 }
